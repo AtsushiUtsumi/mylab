@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<eight>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.App",
+            "projectName": "eight",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
